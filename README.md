@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋 I'm Rajadurai A
 
-<!--
-**rajadurai46/rajadurai46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (Java + MERN)  
+☕ Spring Boot | ⚛️ React | 🟢 Node.js | Express  
+🗄️ MySQL | MongoDB  
+🧠 DSA | Problem Solving | Clean Code  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Backend**
+- Java, Spring Boot, Hibernate
+- Node.js, Express
+- REST APIs, JWT Authentication
+
+**Frontend**
+- React, JavaScript (ES6+)
+- HTML5, CSS3, Tailwind / Bootstrap
+
+**Databases**
+- MySQL
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 📌 What I’m Working On
+- Building scalable full-stack applications
+- Improving DSA & system design skills
+- Writing clean, maintainable code
+
+---
+
+## 🔗 Profiles
+- 💼 Portfolio: https://your-portfolio-link
+- 📊 LeetCode: https://leetcode.com/your-username
+- 💻 GitHub: https://github.com/your-username
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+---
+
+⭐ *Always learning. Always building.*
