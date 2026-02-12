@@ -47,20 +47,20 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajadurai46&show_icons=true&theme=radical&hide_border=true)
+https://github-readme-stats.vercel.app/api?username=rajadurai46&show_icons=true&theme=radical&hide_border=true
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajadurai46&layout=compact&theme=radical&hide_border=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=rajadurai46&layout=compact&theme=radical&hide_border=true
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajadurai46&theme=radical&hide_border=true)
+https://github-readme-streak-stats.herokuapp.com/?user=rajadurai46&theme=radical&hide_border=true
 
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rajadurai46&theme=radical&no-frame=true&margin-w=15)
+https://github-profile-trophy.vercel.app/?username=rajadurai46&theme=radical&no-frame=true&margin-w=15
 
 
 ## 📈 GitHub Views
-![Profile Views](https://komarev.com/ghpvc/?username=rajadurai46&label=Profile%20Views&color=blueviolet&style=flat)
+https://komarev.com/ghpvc/?username=rajadurai46&label=Profile%20Views&color=blueviolet&style=flat
 
 
 
