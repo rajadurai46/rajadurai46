@@ -37,16 +37,32 @@
 ---
 
 ## 🔗 Profiles
-- 💼 Portfolio: https://your-portfolio-link
-- 📊 LeetCode: https://leetcode.com/your-username
-- 💻 GitHub: https://github.com/your-username
+- 💼 Portfolio: https://rajadurai-portfolio-mern.vercel.app
+- 📊 LeetCode: https://leetcode.com/u/rajadurai46
+- 💻 GitHub: https://github.com/rajadurai46
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajadurai46&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajadurai46&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajadurai46&theme=radical&hide_border=true)
+
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rajadurai46&theme=radical&no-frame=true&margin-w=15)
+
+
+## 📈 GitHub Views
+![Profile Views](https://komarev.com/ghpvc/?username=rajadurai46&label=Profile%20Views&color=blueviolet&style=flat)
+
+
 
 ---
 
