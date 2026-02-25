@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rajadurai A</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=750&lines=Java+%7C+MERN+%7C+C%23+.NET+Full+Stack+Developer;Spring+Boot+%7C+ASP.NET+Core+%7C+React+%7C+Node.js;DSA+%7C+Problem+Solving+%7C+Clean+Code;Building+Scalable+Enterprise+Web+Applications"/>
-</p>
+💻 MERN Stack Developer | Java Backend Developer
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Java+%7C+Spring+Boot+Backend+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Full+Stack+Applications;DSA+%7C+Problem+Solving+%7C+Clean+Code"/> </p>
 
 
 ---
 
-## 🚀 About Me
-- 💻 Full Stack Developer (Java + MERN + C#/.NET)
-- ☕ Spring Boot | ⚛️ React | 🟢 Node.js | Express.js | 🧩 .NET (ASP.NET Core)
-- 💠 C# | Java | JavaScript
-- 🗄️ MySQL | MongoDB
-- 🧠 Strong in DSA & problem solving
-- 🎯 Focused on clean, scalable, real-world applications
+👨‍💻 About Me
+
+🎓 2020 Graduate | Engineering Background
+
+💻 Strong in MERN Stack Development
+
+☕ Backend Expertise in Java & Spring Boot
+
+🧠 Active Problem Solver (LeetCode & HackerRank)
+
+🚀 Focused on scalable architecture & clean code
+
+🎯 Seeking Full Stack / Backend Opportunities
 
 ---
 
@@ -34,25 +38,23 @@
 </p>
 
 
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rajadurai46?theme=dark&font=Karma"/>
-</p>
+🔥 LeetCode Stats & Streak
+<p align="center"> <img src="https://leetcard.jacoblin.cool/rajadurai46?theme=dark&font=Karma&ext=heatmap"/> </p>
 
 
-## 🟢 HackerRank Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-5⭐-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-5⭐-brightgreen?style=for-the-badge"/>
-</p>
+🏆 HackerRank Skills
+<p align="center"> <img src="https://img.shields.io/badge/Java-5⭐-brightgreen?style=for-the-badge&logo=hackerrank"/> <img src="https://img.shields.io/badge/Problem%20Solving-5⭐-brightgreen?style=for-the-badge&logo=hackerrank"/> </p>
 
 
 ## 🛠️ Tech Stack
 
 🔙 Backend
-<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/> </p><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
 
 
@@ -69,7 +71,6 @@
 #### 🟦 SQL Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 <br>
@@ -90,16 +91,8 @@
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajadurai46&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajadurai46&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajadurai46&theme=radical&hide_border=true"/>
-</p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajadurai46&show_icons=true&theme=radical"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajadurai46&theme=radical"/> </p>
 
 
 ---
